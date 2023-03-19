@@ -1,4 +1,4 @@
--f https://download.pytorch.org/whl/torch_stable.html
+-f https://download.pytorch.org/whl/torch_stable.html 
 MarkupSafe==1.1.1
 Send2Trash==1.5.0 
 altair==4.1.0 
